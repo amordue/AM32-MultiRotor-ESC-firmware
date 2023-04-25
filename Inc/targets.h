@@ -257,7 +257,7 @@
 #define HARDWARE_GROUP_F0_B
 #define USE_SERIAL_TELEMETRY
 #endif
-/*******************************   G071 Targets *********************************/
+/*******************************   GD32 Targets *********************************/
 
 #ifdef  GD32TEST
 #define FILE_NAME				"GD32TEST"
@@ -270,6 +270,7 @@
 #define USE_SERIAL_TELEMETRY
 #endif
 
+/*******************************   G071 Targets *********************************/
 #ifdef  GEN_64K_G071
 #define FILE_NAME				"GEN_64K_G071"
 #define FIRMWARE_NAME  			 "G071 64kESC "
